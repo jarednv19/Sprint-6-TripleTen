@@ -8,3 +8,5 @@ A lo largo de este proyecto se puso en práctica lo aprendido para desarrollar l
 A pesar de conocer la herramienta de VS Code previamente, esta fue la primera vez que la utilicé por completo para el desarrollo de un proyecto, y quedé fascinado con la cantidad de posibilidades disponibles. Sumando al amplio catálogo de extensiones, puedo comprender porqué esta es una de las herramientas más populares en el entorno Dev.
 
 Se que aún puedo aprender mucho más de estas herramientas, pero este es solo el comienzo. Gracias a TripleTen por ofrecerme la oportunidad de aprender con sus temas tan interesantes y que me reafirman que el mundo del análisis de datos puede ser aplicado en demasiadas áreas.
+
+Liga de acceso: https://sprint6-tripleten.onrender.com 
