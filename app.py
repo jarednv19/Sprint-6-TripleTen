@@ -4,7 +4,7 @@ import pandas as pd
 import plotly_express as px
 
 # Leo el archivo y lo defino como un DataFrame de Pandas
-df_vehicles = pd.read_csv("C:/Users/Usuario/Downloads/vehicles_us.csv")
+df_vehicles = pd.read_csv("vehicles_us.csv")
 
 # Corrección de datos
 df_vehicles["model_year"] = df_vehicles["model_year"].fillna(0).astype(int)
